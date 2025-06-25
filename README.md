@@ -8,21 +8,16 @@ The **Age Calculator** is the first app in this series. It takes a user's date o
 
 ### 🔗 Live Demo
 
-> [Add your hosted link here](#)
+> [https://age-calculator-56e78.web.app/]
 
-### 🛠 Features
-- Clean and minimal user interface.
-- Calculates exact age based on the input date.
-- Responsive design.
+## 🔹 Project 2: Notes App
+
+The **Notes App** lets users write, add, and delete notes anytime they want. All notes are stored in the browser using local storage.
+
+### 🔗 Live Demo
+
+> [https://asciinotes-web.web.app]
 
 ### 🚧 Status
-This project is currently under active development and improvement. More front-end projects will be added to this series soon.
 
-## 📌 Upcoming Projects
-
-Some of the upcoming mini-projects in this series may include:
-- QR Generate App
-- GenerateRandomPasswordApp
-- NotesApp
-- GeneratorApp
-- QRGeneratorApp
+This project is currently under active development.
