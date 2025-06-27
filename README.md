@@ -18,6 +18,14 @@ The **Notes App** lets users write, add, and delete notes anytime they want. All
 
 > [https://asciinotes-web.web.app]
 
+## 🔹 Project 3: Random Password Generator
+
+The Random Password Generator App allows users to generate strong, secure passwords by combining uppercase letters, lowercase letters, numbers, and symbols. It's a handy tool to enhance online security.
+
+### 🔗 Live Demo
+
+> [https://cryptakey.web.app/]
+
 ### 🚧 Status
 
 This project is currently under active development.
