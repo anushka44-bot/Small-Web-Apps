@@ -26,6 +26,18 @@ The Random Password Generator App allows users to generate strong, secure passwo
 
 > [https://cryptakey.web.app/]
 
+## 🔹 Project 4: News App
+
+The **News App** allows users to read the latest news from various fields including technology, science, sports, entertainment, and more. Users can select categories to filter news and stay updated on topics of interest.
+
+This project has not been deployed yet.
+
+## 🔹 Project 5: Quiz App
+
+The **Quiz App** is a general-purpose quiz application that allows users to test their knowledge on various topics. Users can answer multiple-choice questions, see their scores, and track their progress.
+
+This project has not been deployed yet.
+
 ### 🚧 Status
 
 This project is currently under active development.
