@@ -38,6 +38,12 @@ The **Quiz App** is a general-purpose quiz application that allows users to test
 
 This project has not been deployed yet.
 
+## 🔹 Project 6: Landing Page
+
+The **Landing Page** is a simple responsive homepage with an interactive background. The background cycles through three different images automatically, and users can manually switch between them using dot navigation. There is also a play/pause button that allows users to control a background video. As the background changes, the text content on the page updates accordingly.
+
+This project has not been deployed yet.
+
 ### 🚧 Status
 
 This project is currently under active development.
