@@ -66,11 +66,13 @@ body{
   border-radius: 0.5rem;
   border: 1px solid rgb(98,98,98,1);
 }
-.query>img{
+ .query > img {
+  height: 2rem;
+  width: 2rem;
   margin-right: 2rem;
-  object-fit: cover;
-  height: 0.175rem;
+  object-fit: contain;
 }
+
 .lowerSide{
   padding: 2rem;
 }
