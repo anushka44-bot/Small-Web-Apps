@@ -46,7 +46,7 @@ This project has not been deployed yet.
 
 ##🔹 Project 7: ChatGPT Clone
 
-The ChatGPT Clone is an interactive AI chat interface that allows users to type any query and receive a real-time response. It includes a sidebar containing useful options like starting a new chat, quick prompts such as “What is Programming?” and “How to Use API?”, and navigation sections including Home, Saved, and an Upgrade to Pro option. The chat functionality is available only inside the main chat box, allowing users to focus entirely on the conversation experience. This project highlights UI layout for chat applications and demonstrates how AI-powered chat systems can be designed for efficient user interaction.
+The ChatGPT Clone is an interactive AI chat interface that allows users to type any query and receive a real-time response. It includes a sidebar containing useful options like starting a new chat, quick prompts such as “What is Programming?” and “How to Use API?”, and navigation sections including Home, Saved, and an Upgrade to Pro option. The chat functionality is available only inside the main chat box, allowing users to focus entirely on the conversation experience. This project highlights UI layout for chat applications and demonstrates how AI-powered chat systems can be designed for efficient user interaction. The AI feature has not been updated yet.
 
 ### 🚧 Status
 
