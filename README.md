@@ -36,13 +36,17 @@ This project has not been deployed yet.
 
 The **Quiz App** is a general-purpose quiz application that allows users to test their knowledge on various topics. Users can answer multiple-choice questions, see their scores, and track their progress.
 
-This project has not been deployed yet.
+### 🔗 Live Demo
+
+> [https://quiz-app-sage-pi.vercel.app/]
 
 ## 🔹 Project 6: Landing Page
 
 The **Landing Page** is a simple responsive homepage with an interactive background. The background cycles through three different images automatically, and users can manually switch between them using dot navigation. There is also a play/pause button that allows users to control a background video. As the background changes, the text content on the page updates accordingly.
 
-This project has not been deployed yet.
+### 🔗 Live Demo
+
+> [https://zenova-theta.vercel.app/]
 
 ##🔹 Project 7: ChatGPT Clone
 
