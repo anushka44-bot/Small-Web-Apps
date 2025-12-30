@@ -6,6 +6,9 @@ import msgIcon from "./assets/message.svg";
 import home from "./assets/home.svg";
 import saved from "./assets/bookmark.svg";
 import rocket from "./assets/rocket.svg";
+import sendBtn from "./assets/send.svg";
+import userIcon from "./assets/user-icon.png";
+import gptImgLogo from "./assets/chatgptLogo.svg";
 
 const App = () => {
   return (
@@ -46,7 +49,37 @@ const App = () => {
           </div>
         </div>
       </div>
-      <div className="main"></div>
+      <div className="main">
+        <div className="chats">
+          <div className="chat">
+            <img className="chatImg" src={userIcon} alt="" />
+            <p className="txt">
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam
+              alias reprehenderit ipsam? Reprehenderit molestiae, labore ex
+              aliquid amet cum et!
+            </p>
+          </div>
+          <div className="chat bot">
+            <img className="chatImg" src={gptImgLogo} alt="" />
+            <p className="txt">
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam
+              alias reprehenderit ipsam? Reprehenderit molestiae, labore ex
+              aliquid amet cum et!
+            </p>
+          </div>
+        </div>
+        <div className="chatFooter">
+          <div className="inp">
+            <input type="text" placeholder="Send a message" />
+            <button className="send">
+              <img src={sendBtn} alt="send" />
+            </button>
+          </div>
+          <p>
+            ChatGPT can make mistakes. Check important info. See Review Policies
+          </p>
+        </div>
+      </div>
     </div>
   );
 };
