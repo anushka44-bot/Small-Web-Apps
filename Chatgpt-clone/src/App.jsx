@@ -59,7 +59,7 @@ const App = () => {
               aliquid amet cum et!
             </p>
           </div>
-          <div className="chat bot">
+          <div className="chat">
             <img className="chatImg" src={gptImgLogo} alt="" />
             <p className="txt">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam
